@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Ouvindo: Level Community","Ouvindo: Level Community"];
 
 
 let currentIndex = 0;
