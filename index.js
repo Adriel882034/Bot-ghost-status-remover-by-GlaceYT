@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Ouvindo: Level Community","Ouvindo: Level Community"];
+const statusMessages = ["dsc.gg/horizon-hub","𝗔𝘀𝘀𝗶𝘀𝘁𝗶𝗻𝗱𝗼: HorizonHub 🏝"];
 
 
 let currentIndex = 0;
